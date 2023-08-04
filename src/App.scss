@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+.app {
+    text-align: center;
+    margin: 0% 3%;
+    font-family: 'Roboto', sans-serif;
+
+    .articles {
+        margin-left: '20px';
+        margin-right: '20px';
+    }
+}
+
+.modal-header, .modal-content {
+    border:none;
+}
